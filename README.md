@@ -1,3 +1,2 @@
-# rhoticity
-A repository with R scripts including statistics and plotting of the results of my PhD, "Loss of rhoticity in South-West England"
-sv
+# Loss of Rhoticity in South-West England
+This repository contains raw data, R codes and .wizard files which have been used in my PhD project. Please feel to reproduce the analyses.
